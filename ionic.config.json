@@ -1,0 +1,7 @@
+{
+  "name": "ais-cvs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
